@@ -9,7 +9,7 @@ A compact Docker container with a browser-accessible environment for reproducibl
 
 2. Create a local folder where the downloaded software packages will be stored, e.g. ~/vnm in Mac and Linux, or C:\vnm in Windows 
 
-3. Open a terminal, and type the folowing command to automatically download the vnm container and run it (Mac, Windows, Linux commands listed below) 
+3. Open a terminal, and type the following command to automatically download the vnm container and run it (Mac, Windows, Linux commands listed below) 
 
 * Mac:
 ```
